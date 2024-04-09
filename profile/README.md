@@ -20,3 +20,8 @@ Protecting products extends their lifespan and therefore reduces their environme
 We promote repair and reconditioning rather than the purchase of new equipment.
 
 With Neat, reduce the environmental impact of your purchases, and contribute to a more sustainable and responsible consumption that protects the planet.
+
+# Nous rejoindre
+
+[Lead Full Stack H/F](profile/jobs/lead_full_stack.hf.md)
+[Senior Full Stack H/F](profile/jobs/senior_full_stack.hf.md)
